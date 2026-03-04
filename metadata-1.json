@@ -1,0 +1,8 @@
+
+{
+  "name": "Bulk Lifestyle Transformer",
+  "description": "Transform your white-background product images into professional lifestyle shots in bulk using Gemini AI. Upload multiple images, choose a scene, and get AI-generated contextual backgrounds instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Bulk AI Image Modifier",
+  "description": "Transform and modify your images in bulk using Gemini AI. Upload multiple images, choose a style or provide custom instructions, and get AI-modified results instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
